@@ -1,2 +1,3 @@
-# Projeto-Mestre-de-Obras
-Projeto Programação-II IFPB
+# IFPB Programação-II
+# Projeto - Mestre de Obras
+Colaboradores: Elton, Ernando.
